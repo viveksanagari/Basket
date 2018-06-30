@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Diet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Groceries">
+        <item>Banana</item>
+        <item>Chana</item>
+        <item>Eggs</item>
+        <item>Peanut Butter</item>
+        <item>Cinnamon</item>
+        <item>Oats</item>
+        <item>Roasted Chana</item>
+        <item>Onion</item>
+        <item>Tomato</item>
+        <item>Bell Pepper</item>
+        <item>Orange</item>
+        <item>Spinach</item>
+        <item>Salt</item>
+        <item>Olive Oil</item>
+        <item>Wheat Flour</item>
+        <item>Paneer</item>
+        <item>Bread</item>
+        <item>Kidney Beans</item>
+        <item>Black Beans</item>
+        <item>White Chana</item>
+        <item>Ginger</item>
+        <item>Garlic</item>
+    </string-array>
+</resources>
